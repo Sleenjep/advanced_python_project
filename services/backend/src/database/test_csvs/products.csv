@@ -1,0 +1,302 @@
+product_id,product_name,product_price,aisle_id,department_id
+1,Chocolate Sandwich Cookies,2.99,61,19
+2,All-Seasons Salt,1.49,104,13
+3,Robust Golden Unsweetened Oolong Tea,3.79,94,7
+4,Smart Ones Classic Favorites Mini Rigatoni With Vodka Cream Sauce,4.99,38,1
+5,Green Chile Anytime Sauce,2.49,5,13
+6,Dry Nose Oil,5.99,11,11
+7,Pure Coconut Water With Orange,3.49,98,7
+8,Cut Russet Potatoes Steam N' Mash,4.29,116,1
+9,Light Strawberry Blueberry Yogurt,1.99,120,16
+10,Sparkling Orange Juice & Prickly Pear Beverage,2.89,115,7
+11,Peach Mango Juice,3.59,31,7
+12,Chocolate Fudge Layer Cake,6.99,119,1
+13,Saline Nasal Mist,4.49,11,11
+14,Fresh Scent Dishwasher Cleaner,3.89,74,17
+15,Overnight Diapers Size 6,19.99,56,18
+16,Mint Chocolate Flavored Syrup,3.99,103,19
+17,Rendered Duck Fat,7.49,35,12
+18,Pizza for One Suprema  Frozen Pizza,5.99,79,1
+19,Gluten Free Quinoa Three Cheese & Mushroom Blend,4.99,63,9
+20,Pomegranate Cranberry & Aloe Vera Enrich Drink,3.49,98,7
+21,Small & Medium Dental Dog Treats,8.99,40,8
+22,Fresh Breath Oral Rinse Mild Mint,6.99,20,11
+23,Organic Turkey Burgers,7.49,49,12
+24,Tri-Vi-Sol® Vitamins A-C-and D Supplement Drops for Infants,12.99,47,11
+25,Salted Caramel Lean Protein & Fiber Bar,1.99,3,19
+26,Fancy Feast Trout Feast Flaked Wet Cat Food,0.99,41,8
+27,Complete Spring Water Foaming Antibacterial Hand Wash,3.99,127,11
+28,Wheat Chex Cereal,4.29,121,14
+29,Fresh Cut Golden Sweet No Salt Added Whole Kernel Corn,1.89,81,15
+30,"Three Cheese Ziti, Marinara with Meatballs",5.49,38,1
+31,White Pearl Onions,2.49,123,4
+32,Nacho Cheese White Bean Chips,3.99,107,19
+33,Organic Spaghetti Style Pasta,3.79,131,9
+34,Peanut Butter Cereal,4.29,121,14
+35,Italian Herb Porcini Mushrooms Chicken Sausage,5.99,106,12
+36,Traditional Lasagna with Meat Sauce Savory Italian Recipes,6.49,38,1
+37,Noodle Soup Mix With Chicken Broth,2.19,69,15
+38,Ultra Antibacterial Dish Liquid,4.99,100,21
+39,Daily Tangerine Citrus Flavored Beverage,3.59,64,7
+40,Beef Hot Links Beef Smoked Sausage With Chile Peppers,6.99,106,12
+41,Organic Sourdough Einkorn Crackers Rosemary,4.49,78,19
+42,Biotin 1000 mcg,9.99,47,11
+43,Organic Clementines,4.99,123,4
+44,Sparkling Raspberry Seltzer,2.89,115,7
+45,European Cucumber,1.29,83,4
+46,Raisin Cinnamon Bagels 5 count,3.49,58,1
+47,Onion Flavor Organic Roasted Seaweed Snack,1.99,66,6
+48,"School Glue, Washable, No Run",1.49,87,17
+49,Vegetarian Grain Meat Sausages Italian - 4 CT,6.99,14,20
+50,Pumpkin Muffin Mix,3.79,105,13
+51,Sa Extra Hold Mousse Hair Styling,4.99,22,11
+52,Mirabelle Brut Rose,12.99,134,5
+53,Whole Leaf Pure Aloe With Lemon Juice,4.49,98,7
+54,24/7 Performance Cat Litter,8.99,41,8
+55,Lasting Color Shampoo,5.99,22,11
+56,Healthy Pop Butter Popcorn,2.49,23,19
+57,Flat Toothpicks,1.29,111,17
+58,Whole Wheat Tortillas,2.79,128,3
+59,Medium Taqueria Style Chipotle Salsa,3.49,50,19
+60,Cheesy Creations Roasted Garlic Parmesan Sauce,4.99,9,9
+61,Ramen Noodles Soup Chicken Mushroom Flavor,0.99,69,15
+62,Premium Deli Oven Roasted Turkey Breast,8.49,96,20
+63,Banana & Sweet Potato Organic Teething Wafers,5.49,92,18
+64,Autumn Vegetable & Turkey Dinner with Lil' Bits Purees Dinner,2.99,92,18
+65,Organic Red Wine & Olive Oil Dressing Organic,4.79,89,13
+66,European Style Spring Mix,3.49,123,4
+67,"Jelly, Blackberry",2.99,88,13
+68,"Pancake Mix, Buttermilk",3.99,130,14
+69,Vanilla with Almond Milk Iced Coffee,2.79,26,7
+70,Sweet Cooking Rice Seasoning,2.49,66,6
+71,Ultra 7 Inch Polypropylene Traditional Plates,4.99,111,17
+72,Organic Honeycrisp Apples,6.49,100,21
+73,Jasmine Tea Unfiltered Ginger Ale,2.99,77,7
+74,Artisan Chick'n & Apple Sausage,5.99,14,20
+75,"Hemp Protein, Organic",9.99,65,11
+76,Spinach Basil Garlic Linguini,3.79,12,9
+77,Coconut Chocolate Chip Energy Bar,2.49,3,19
+78,Nutter Butter Cookie Bites Go-Pak,1.99,61,19
+79,Wild Albacore Tuna No Salt Added,4.99,95,15
+80,French  Tarragon Wine Vinegar,3.99,19,13
+81,Blakes Chicken Parmesan Dinner,5.99,38,1
+82,All Natural 100% Apple Juice,3.49,98,7
+83,100% Whole Wheat Pita Bread,2.99,128,3
+84,Lamb Shank,9.99,7,12
+85,Soppressata Piccante,7.99,96,20
+86,"Camilia, Single Liquid Doses",6.49,6,2
+87,Classics Earl Grey Tea,3.99,94,7
+88,Probiotics High Potency Capsules,9.99,47,11
+89,Yogurt Fruit Dip Sliced Apples,3.49,123,4
+90,Smorz Cereal,4.29,121,14
+91,Kind Prenatal Once Daily,10.99,47,11
+92,Meat In The Middle Large Rawhide Chews,8.99,40,8
+93,Uncured Cracked Pepper Beef,6.49,23,19
+94,Organic Blueberry Blitz Fruit & Veggie Smoothie Mashups,3.79,92,18
+95,Organic Rice Vinegar,4.29,66,6
+96,Sprinklez Confetti Fun Organic Toppings,3.99,97,13
+97,Organic Chamomile Lemon Tea,3.49,94,7
+98,2% Yellow American Cheese,3.99,2,16
+99,Local Living Butter Lettuce,2.49,83,4
+100,Peanut Butter & Strawberry Jam Sandwich,3.49,38,1
+101,"Bread, Healthy Whole Grain",2.99,112,3
+102,Danish Butter Cookies,3.49,61,19
+103,Sprouted Kale Cracker,4.49,78,19
+104,High Fiber Tomato Basil Soup,3.79,69,15
+105,"Easy Grab 9\"x13\" Oblong Glass Bakeware",12.99,10,17
+106,Organic Yummy Tummy Maple & Brown Sugar Instant Oatmeal,4.99,92,18
+107,Mild Salsa Divino,2.89,51,13
+108,Organic Sprouted Barley Bread,3.59,112,3
+109,Grape Leaf Hummus Wrap,5.49,13,20
+110,Uncured Turkey Bologna,3.99,100,21
+111,"Fabric Softener, Geranium Scent",7.49,75,17
+112,Hot Tomatillo Salsa,2.99,51,13
+113,Infant's Blend Probiotic,10.99,70,11
+114,Light Savory Beef Barley Vegetable Soup,3.49,69,15
+115,Scooby-Doo! Fruit Flavored Snacks,1.99,50,19
+116,English Muffins,2.49,93,3
+117,Petit Suisse Fruit,3.99,2,16
+118,Ground Turkey Chub,4.49,34,1
+119,Chardonnay Paso Robles,14.99,62,5
+120,Cauliflower Florettes,2.99,123,4
+121,Sharp Cheddar,3.79,21,16
+122,Pomegranate Molasses,5.49,29,13
+123,Sherry Reserve Vinegar,6.99,19,13
+124,Sun Cups Dark Chocolate,4.99,45,19
+125,Herbal Armor DEET-Free Natural Insect Repellant,8.99,118,11
+126,Hot & Spicy Chicken Flavor Ramen Noodles,1.49,4,9
+127,Marscapone,4.99,108,16
+128,Organic Wild Blueberries,3.79,116,1
+129,Traditional Chicken & Orzo with Lemon Soup,3.89,69,15
+130,Vanilla Milk Chocolate Almond Ice Cream Bars Multi-Pack,6.99,37,1
+131,Brioche Bachelor Loaf,3.99,93,3
+132,Yogurt Strawberry Pomegranate,1.99,120,16
+133,Purifying Daily Detox Scrub,6.49,109,11
+134,Stain Release Boost In-Wash Stain Remover Pacs,7.99,75,17
+135,Dark Chocolate Ice Cream Topping,4.29,103,19
+136,Simple,3.99,45,19
+137,Very Vanilla Soymilk,3.49,91,16
+138,Olli Napoli Salami,7.49,96,20
+139,"Zita Cut, No. 118",2.99,131,9
+140,Chips Onion Chipotle Garlic,2.49,107,19
+141,Restaurant Style Organic Chia & Quinoa Tortilla Chips,3.99,107,19
+142,Arugula Salad,2.89,123,4
+143,Organic Lemons,3.49,24,4
+144,Coarse Grind Garlic Powder & Parsley Blend,4.49,104,13
+145,Traditional Water Crackers,2.79,78,19
+146,Anti Diarrheal Caplets,6.99,70,11
+147,Organic Ranch Veggie Dip,4.99,67,20
+148,Nectarines,2.49,24,4
+149,Wild Blueberry All Natural Fruit Spread,3.99,88,13
+150,Brut Rosé,15.99,134,5
+151,Aromatherapaes Stress Reducing Lavender & Chamomile Spa Bath,7.49,132,11
+152,"3 in 1 Soap for Every Man, Cucumber & Lemon",4.99,25,11
+153,"Fabric Refresher Meadows & Rain Air Freshener (1 Count, 27 oz) Air Care",6.99,75,17
+154,"Corn Dogs, Mini, Honey Crunchy Flavor",5.49,129,1
+155,Artisan Ciabatta,3.49,58,1
+156,Extra Spearmint Sugar-Free Gum,1.29,46,19
+157,Living Organic Cilantro,1.99,16,4
+158,Smoked Ham & Oven Roasted Turkey Sub Sandwich Kit,7.99,96,20
+159,"Calcium Adult Gummy Vitamins, Orange Cherry & Strawberry",9.99,47,11
+160,100% Recycled Aluminum Foil,4.49,97,13
+161,Hacho Miso Aged & Fermented Soybeans,3.79,66,6
+162,Organic Mini Homestyle Waffles,2.99,52,1
+163,Dressing Bleu Cheese,3.49,89,13
+164,Peanut Butter Cacao Quinoa Clusters,3.99,3,19
+165,Wild Chanterelle Mushroom Ravioli,5.99,12,9
+166,Garlic Parmesan Pita Bread Chips,2.49,107,19
+167,Sparkling Blush Grape Juice,3.49,77,7
+168,Halves & Pieces Walnuts,4.29,17,13
+169,Extra Sharp Cheddar Cheese,3.99,21,16
+170,Single Herbs Ginkgo Leaf Dietary Supplement,11.49,47,11
+171,Steakhouse Onion Burger with Garlic Seasoning,4.99,5,13
+172,Gluten Free All Natural Chocolate Chip Cookies,4.99,61,19
+173,Habanero Lime Shrimp Flavor Ramen Noodle Soup,1.99,4,9
+174,Vanishing Acne Treatment Cream,7.99,73,11
+175,T Bone Steak,12.99,122,12
+176,Original Turkey,7.49,96,20
+177,Citrus Terere Yerba Mate,3.49,94,7
+178,Vegan Santa Fe Style Flour Tortilla Rolled Tacos,4.99,42,1
+179,Penne Rigate With Spinach,3.79,131,9
+180,Simply Beyond Black Bean Tortilla Chips,3.49,107,19
+181,Country Style Baked Beans,2.79,59,15
+182,Acti-Fresh Body Shape Long Unscented To Go Panty Liners,6.49,126,11
+183,Cookie Dough Performance Energy,2.99,3,19
+184,Kisses Milk Chocolate Candy,4.99,45,19
+185,Chicken Nugget Meal,4.99,38,1
+186,Fresh Scent Dishwasher Detergent with Dawn,5.99,74,17
+187,Wild Sardines in Marinara Sauce,3.99,95,15
+188,Mild El Nino Salsa,3.49,67,20
+189,Healthfull Nuts & Seeds Bread,3.99,112,3
+190,Classic Culinary Low Sodium Vegetable Broth,2.99,69,15
+191,Medium Spicy Butter Chicken Simmer Sauce,3.79,9,9
+192,Israeli Style Gefilte Fish,6.49,33,6
+193,fruitwater® Strawberry Kiwi Sparkling Water,2.99,98,7
+194,Lamb Rib Chops,14.49,122,12
+195,Grade A Pasteurized 2% Milkfat Lowfat Cottage Cheese with Pineapple,2.99,108,16
+196,Soda,1.49,77,7
+197,Cold Brew Coffee Tahitian Vanilla,3.29,26,7
+198,Tzatziki Cucumber Sauce,3.79,67,20
+199,Herb Thyme Clamshell,1.49,16,4
+200,Radiant Pantiliners Regular Wrapped Unscented,4.99,126,11
+201,Sloppy Joe,3.99,38,1
+202,Spinach & Feta Pierogi,4.49,38,1
+203,"Rescue Remedy, Spray",8.99,11,11
+204,Free & Clear Natural Laundry Detergent For Sensitive Skin,9.99,75,17
+205,Chocolate Mint Cookie Crunch Nutrition Bar,1.99,3,19
+206,Roasted Vegetable Soufflé,4.99,38,1
+207,Minis Candy Bars,2.49,45,19
+208,Vanilla Almond Cashew Almondmilk Cashewmilk Blend,3.79,91,16
+209,Italian Pasta Salad,4.49,1,20
+210,Homemade Hot Arrabbiata Fra Diavolo Sauce,3.99,9,9
+211,Gluten Free Organic Cereal Coconut Maple Vanilla,5.99,130,14
+212,Organic Blue Corn Sea Salt Tortilla Chips,3.79,107,19
+213,Tapatio Salsa Picante Hot Sauce Tortilla Chips,2.99,107,19
+214,Argan Oil of Morocco Renewing Weightless Healing Dry Oil Hair Oil,7.99,22,11
+215,Sambal Oelek Ground Fresh Chili Paste,4.49,66,6
+216,"Gluten Free Oatmeal, Variety Pack",4.99,130,14
+217,"String Cheese, Mozzarella",3.29,108,16
+218,"6\" Organic Carrot Cake",6.49,8,3
+219,Totz Toothbrush Extra Soft 18+ Months,3.99,82,18
+220,Tegaderm Waterproof Transparent Dressing,5.49,118,11
+221,Cayenne Lemonade Made With Raw Tristate Honey,3.29,31,7
+222,Honey Nut Oatmeal Squares,4.29,121,14
+223,Kiwi Strawberry Sparkling Water,1.99,115,7
+224,Foaming Hand Soap Kid Watermelon,2.99,114,17
+225,3 Seed Blue Corn Dipping Chips,3.79,107,19
+226,Shaved Parmesan Cheese,4.99,21,16
+227,Triple Chocolate Snack Size,2.49,45,19
+228,Organic Soups Lentil,3.49,69,15
+229,EcoNet Recycled Bath Sponge,2.99,109,11
+230,Vanilla Cream Soda,1.79,77,7
+231,Low Sodium Turkey,6.99,49,12
+232,Blue Bottle Coffee Frozen Bar,3.99,37,1
+233,Chinese Breakfast Black Tea,4.49,94,7
+234,Tennessee Whiskey,19.99,124,5
+235,Gluten Free Blueberry Muffin Mix,5.49,105,13
+236,Chicken Meatballs Dog Treats,4.99,40,8
+237,Brambleberry Herbal Tea,3.79,94,7
+238,Alpha-Bits Multigrain Cereal,4.29,121,14
+239,Chicharrones Picante Flavor Pork Rinds,2.49,107,19
+240,Nature's Seasons Seasoning Blend,3.49,104,13
+241,Shrimp with Pasta & Vegetables,6.49,38,1
+242,Original Red Twists,2.99,45,19
+243,Taco Reduced Sodium Seasoning Mix,1.49,5,13
+244,Organic Roasted Garlic Pasta Sauce,3.99,9,9
+245,Poppy Seed Bagels,3.79,93,3
+246,Triple-Acting Laundry Stain Remover,7.49,75,17
+247,Perfectly Thymed Pita Crisps Baked,3.99,107,19
+248,Dried Sweetened Cranberries,3.29,117,19
+249,"Pinot Grigio, California, 2010",14.99,62,5
+250,"Authentic Deep Dish, Spinach & Garlic Pizza",6.99,79,1
+251,Extra Strength Melatonin Adult Gummies,11.49,47,11
+252,"Waffles, Red Berry",4.99,121,14
+253,Organic Vegetable Greens & Greens Juice Blend,5.99,31,7
+254,Honey Mustard,3.49,72,13
+255,"Cold Remedy, Quick Dissolve Tablets, Cherry Flavor",7.99,11,11
+256,Island Fruits Fruit Snacks,1.99,50,19
+257,Key Lime Soda,1.79,77,7
+258,Vegetable Pot Pie,4.49,38,1
+259,Imported Italian Solid Light Tuna In Pure Olive Oil,5.49,95,15
+260,Cantaloupe,2.49,24,4
+261,Organic Southwestern Burrito,3.79,38,1
+262,Petite Dill Pickles,3.29,110,13
+263,Red Food Color,2.99,97,13
+264,Non-Fat Blueberry on the Bottom Greek Yogurt,1.99,120,16
+265,Glass Storage Container with Green Silicone Protection,9.99,85,17
+266,Rio Berry,2.79,64,7
+267,Triple Chocolate Ripple,4.49,37,1
+268,Sponge Mop,6.99,114,17
+269,Stuffed Crust Five Cheese Pizza,6.99,79,1
+270,OneZip Storage Bags Quart Size Value Pack,4.99,85,17
+271,TAI PEI 14OZ.SWEET & SOUR CHKN,5.99,38,1
+272,Propolis Herbal Supplement,7.99,47,11
+273,Thin Stackers Brown Rice Salt Free,3.49,107,19
+274,Snack Bags,1.99,87,17
+275,Caramel Sauce,3.99,103,19
+276,French Vanilla Ice Cream,4.79,37,1
+277,Diet Root Beer,1.79,77,7
+278,Instant Mashed Potatoes,2.29,4,9
+279,Everyday Detox Dandelion Tea,3.79,94,7
+280,Makeup Remover Cleansing Towelettes,5.49,73,11
+281,Chai Tea Bags,4.99,94,7
+282,Oh My Cod! Cod Pate and Vegetables Cat Food,3.49,40,8
+283,Organic Whole Wheat Elbows,2.79,131,9
+284,Organic Spicy Heirloom Marinara Sauce,3.79,9,9
+285,Mini Nilla Wafers Munch Pack,2.49,61,19
+286,Lite Poppy Seed Dressing Lite,3.99,89,13
+287,Turkey,5.99,96,20
+288,Original Sprouted Grains Protein & Fiber Hot Oatmeal,4.99,130,14
+289,100% Juice No Sugar Added Fruit Punch,2.99,98,7
+290,Organic Peppermint Lemonade,3.29,31,7
+291,Mint Dental Floss,2.49,20,11
+292,Fresh Multi-Purpose Contact Lens Solution,6.99,44,11
+293,Prime Filets Chicken & Tuna Dinner in Gravy Cat Food,1.89,41,8
+294,Minis Original Saltine Crackers,2.49,78,19
+295,Chewables Extra Strength Cherry Creme - 48 CT,4.49,70,11
+296,For Men Odor Armor Body Wash,5.99,127,11
+297,"Write Bros Ball Point Pens, Cap-Pen, Medium (1.0 mm), Black Ink",1.99,100,21
+298,Brisk With Lemon Iced Tea,1.79,94,7
+299,Organic Apple Spinach Kale Coconut Water Superjuice,3.79,98,7
+300,Organic Enriched Unbleached White Flour,4.49,17,13
+
